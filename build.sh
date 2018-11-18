@@ -8,6 +8,8 @@ cat   header.tex       \
       chapter2.3.tex   \
       chapter2.4.tex   \
       chapter2.5.tex   \
+      chapter3.1.tex   \
+      chapter3.2.tex   \
       appendix.tex     \
       ending.tex       > yesterday.tex
 xelatex -syntax=1 yesterday
